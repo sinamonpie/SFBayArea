@@ -1,0 +1,348 @@
+{
+  "data": [
+    {
+      "id": "Alcatraz",
+      "contents": {
+        "KorText": {
+          "Title": "알카트라즈 섬",
+          "Description": "알카트라즈 섬은 미국 캘리포니아의 샌프란시스코 베이에 위치한 작은 섬입니다.\n알카트라즈 섬은 샌프란시스코에서 약 1.25마일(약 2.01킬로미터) 떨어진 곳에 위치해 있습니다.\n1934년부터 1963년까지 알카트라즈는 미국의 최악의 범죄자들이 수감되었던 연방 감옥으로 유명합니다.\n현재 알카트라즈 섬은 Golden Gate national Recreation Area 의 일부입니다.\n방문객들은 섬을 유람하고 감옥 시설을 포함한 섬의 역사를 살펴볼 수 있습니다. "
+        },
+        "EngText": {
+          "Title": "Alcatraz",
+          "Description": "Alcatraz Island is a small island located in San Francisco Bay, California, United States.\nAlcatraz Island is situated about 1.25 miles (2.01 km) offshore from San Francisco.\nFrom 1934 to 1963, Alcatraz is famous as a federal prison where America’s worst criminals were detained.\nAlcatraz Island is currently part of the Golden Gate National Recreation Area.\nVisitors are able to take guided tours of the island and explore its history, including the remains of the prison facilities."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nAlcatraz Island \nGolden Gate National Recreation Area\nB201 Fort Mason\nSan Francisco, CA 94123"
+    },
+
+    {
+      "id": "CableCar",
+      "contents": {
+        "KorText": {
+          "Title": "SF 케이블카",
+          "Description": "SF 케이블카는 세계에서 마지막으로 남은 유일하게 수동으로 운영되는 케이블카입니다.\n이 케이블카는 19세기 후반에 처음 설립되어 그 이후로 계속 운영되어 왔습니다.\n이 시스템은 원래 도시의 가파른 언덕을 정복하기 위해 개발되었습니다.\n관광객들은 케이블카를 이용해서 도시곳곳의 명소의 경치를 감상하고 역사적인 교통 수단을 타는 경험을 즐길 수 있습니다.\nSF 케이블카 노선도는 크게 세 개가 있고 아래와 같다."
+        },
+        "EngText": {
+          "Title": "CableCar",
+          "Description": "The San Francisco cable car is one of the last manually operated cable car systems in the world. It was first established in the late 19th century and has been in operation ever since. The system was initially developed to help conquer the city's steep hills.\nTourists can enjoy the scenic views and the experience of riding on a historic form of transportation.\nThere are three cable car routes in San Francisco: "
+        }
+      },
+      "location": "Powell-Hyde Line, Powell-Mason Line, California Line"
+    },
+
+    {
+      "id": "ChinaTown",
+      "contents": {
+        "KorText": {
+          "Title": "차이나타운",
+          "Description": "샌프란시스코의 차이나타운은 19세기 중반 캘리포니아 골드러시 기간 중 중국 이민자들에 의해 설립되었습니다.\n그리고 이는 아시아 외부에서 가장 오래되고 큰 차이나타운 중 하나로 발전했습니다.\n(일부 주목할만한 관광지들은 아래와 같습니다)"
+        },
+        "EngText": {
+          "Title": "ChinaTown",
+          "Description": "San Francisco's Chinatown, established by Chinese immigrants during the California Gold Rush in the mid-19th century.\nAnd it evolved into one of the oldest and largest Chinatowns outside of Asia.\nSome notable attractions include: "
+        }
+      },
+      "location": "Dragon’s Gate, Porsmouth Square, Golden Gate Fortune Cookie Factory, Tin How Temple, Chinese Historical Society of America Museum\n<Detailed Adress&Location>\nLocated in the northeastern part of the city, centered around Grant Avenue and Stockton Street. "
+    },
+
+    {
+      "id": "FishermansWarf",
+      "contents": {
+        "KorText": {
+          "Title": "Fisherman's Wharf",
+          "Description": "Fisherman's Wharf는 샌프란시스코 북쪽 해안가에 위치한 인기 있는 관광 명소입니다. 19세기 중반 이탈리아 이민자들이 이 지역에 정착하여 어업 공동체를 형성했습니다. 이 곳에서 멋진 해안 전망과 맛있는 해산물, 그리고 여러 엔터테인먼트와 문화적 명소들을 즐길 수 있습니다."
+        },
+        "EngText": {
+          "Title": "FishermansWarf",
+          "Description": "Fisherman's Wharf is a popular tourist destination located on the northern waterfront of San Francisco.\nItalian immigrants settled in the area in the mid-19th century and established a fishing community.\nYou can enjoy stunning waterfront views and delicious seafood to entertainment and cultural attractions."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nLocated on the northern waterfront of San Francisco, California, stretching from Ghirardelli Square to Pier 39.\nIt is near the intersection of Jefferson and Taylor Streets."
+    },
+
+    {
+      "id": "GoldenGateBridge",
+      "contents": {
+        "KorText": {
+          "Title": "The Golden Gate Bridge",
+          "Description": "The Golden Gate Bridge 리포니아주 샌프란시스코에 위치한 상징적인 현수교입니다.\nThe Golden Gate Bridge는 태평양에서 샌프란시스코 베이로 들어가는 <Golden Gate Strait(해협)>을 가로지르고 있습니다. 이 다리는 샌프란시스코와 마린 카운티를 연결해주는 핵심 교통 수단입니다. 관광객들은 샌프란시스코, Marine Headlands 그리고 태평양의 전망을 경험할 수 있습니다. "
+        },
+        "EngText": {
+          "Title": "GoldenGateBridge",
+          "Description": "The Golden Gate Bridge is an iconic suspension bridge located in San Francisco, California.\nThe Golden Gate Bridge spans the Golden Gate Strait, the entrance to the San Francisco Bay from the Pacific Ocean. It is a vital transportation link that connects the city of San Francisco to Marin County. It offers panoramic views of San Francisco, the Marin Headlands, and the Pacific Ocean for tourists."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nThe southern end of the bridge is in the Presidio of San Francisco, and the northern end is in the Marin Headlands."
+    },
+
+    {
+      "id": "LomBard",
+      "contents": {
+        "KorText": {
+          "Title": "LomBard",
+          "Description": "Lombard Street은 캘리포니아주 샌프란시스코의 유명한 거리로, 가파르고 구불구불한 도로로 유명합니다. 이곳에서 가장 유명한 것은 1922년에 설계되어 언덕의 가파름을 줄이고 차량이 안전하게 이동할 수 있도록 만들어진 구부러진 구간(도로)입니다.\n방문객들은 보도를 따라 산책하며 경치를 감상하고 사진을 찍을 수 있습니다. 그리고 구부러진 구간을 따라 차량을 직접 운전해 볼 수도 있습니다. 이 거리는 수많은 영화, 텔레비전 프로그램 및 광고에 등장했습니다."
+        },
+        "EngText": {
+          "Title": "LomBard",
+          "Description": "Lombard Street is a famous street in San Francisco, California, known for its steep, crooked road.\nThe most famous part of Lombard Street is its crooked section, which was designed in 1922 to reduce the steepness of the hill and make it safer for vehicles to navigate.\nVisitors can walk along the sidewalks to admire the views and take photographs. And vehicles are also allowed to drive down the crooked section.\nLombard Street has been featured in numerous movies, television shows, and advertisements. "
+        }
+      },
+      "location": "<Detailed Adress&Location>\nLombard Street is located in the Russian Hill neighborhood of San Francisco. \nThe crooked section, known as the 'Crookedest Street in the World,' spans between Hyde Street and Leavenworth Street.\nIt covers a vast area of approximately 1,017 acres (411 hectares)."
+    },
+
+    {
+      "id": "PaintedLadies",
+      "contents": {
+        "KorText": {
+          "Title": "PaintedLadies",
+          "Description": "Painted Ladies 빅토리안 시대와 에드워디안 시대의 주택들을 묘사하는 데 흔히 사용된는 용어입니다.\n빅토리안과 에드워디안 시대의 주택들은 생생한 색상, 화려한 디테일 및 장식으로 이루어진 독특한 건축 양식을 따르고 있습니다.\n이들은 샌프란시스코의 빅토리안 양식을 대표하는 중요한 예시를 보여줍니다.\nThe Painted Ladies 샌프란시스코에서 사진이 가장 많이 찍히는 랜드마크 중 하나가 되었습니다.\n이들은 영화, 텔레비전 프로그램 및 엽서 등에서 자주 볼 수 있습니다."
+        },
+        "EngText": {
+          "Title": "PaintedLadies",
+          "Description": "The Painted Ladies is a term commonly used to describe a row of Victorian and Edwardian houses.\nThe Painted Ladies are Victorian and Edwardian houses known for their distinctive architectural style, characterized by vibrant colors, ornate detailing, and decorative trim.\nThe Painted Ladies have become one of the most photographed and iconic landmarks in San Francisco. They are frequently featured in movies, television shows, and postcards."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nLocated at 710–720 Steiner Street, across from Alamo Square park, in San Francisco, California."
+    },
+
+    {
+      "id": "PalaceOfFineArt",
+      "contents": {
+        "KorText": {
+          "Title": "PalaceOfFineArt",
+          "Description": "The Palace of Fine Arts는 1915년에 샌프란시스코에서 개최된 세계 박람회인 파나마-태평양 박람회를 위해 건립되었습니다.\nThe Palace of Fine Arts의 건축양식은 고전 로마와 그리스 디자인에서 영감을 받아 대형 돔을 갖춘 웅장한 원형 홀, 돌단, 연못을 특징으로 합니다.\n주변의 정원과 연못은 소풍, 여유로운 산책, 그리고 사진 촬영을 위한 아름다운 배경입니다. "
+        },
+        "EngText": {
+          "Title": "PalaceOfFineArt",
+          "Description": "The Palace of Fine Arts was originally constructed for the 1915 Panama-Pacific Exposition, a world's fair held in San Francisco.\nThe architecture of the Palace of Fine Arts is inspired by classical Roman and Greek designs, featuring a grand rotunda with a large dome, colonnades, and reflective lagoon.\nThe surrounding grounds and lagoon provide a picturesque setting for picnics, leisurely walks, and photography."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nLocated in Marina District of San Francisco, California, USA.\n3601 Lyon Street, San Francisco, CA 94123"
+    },
+
+    {
+      "id": "Pier39",
+      "contents": {
+        "KorText": {
+          "Title": "피어 39",
+          "Description": "피어 39는 캘리포니아 샌프란시스코의 피셔맨스 워프 지역에 위치한 인기 있는 관광 명소입니다. 피어 39는 샌프란시스코 베이, 알카트라즈 섬, 황금 게이트 브리지 및 도시 전경의 멋진 전망을 제공하여 관광 및 사진 촬영을 위한 인기 있는 광광지로 자리매김하고 있습니다."
+        },
+        "EngText": {
+          "Title": "Pier39",
+          "Description": "Pier 39 is a popular tourist attraction located in the Fisherman's Wharf neighborhood of San Francisco, California. Pier 39 offers stunning views of the San Francisco Bay, Alcatraz Island, Golden Gate Bridge, and the city skyline, making it a popular destination for sightseeing and photography."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nPier 39 is located along the waterfront of San Francisco, at the edge of the Fisherman's Wharf district. Its address is Beach Street & The Embarcadero, San Francisco, CA 94133."
+    },
+
+    {
+      "id": "TwinPeaks",
+      "contents": {
+        "KorText": {
+          "Title": "TwinPeaks",
+          "Description": "Twin Peak는 샌프란시스코의 지리적 중심에 위치한 두 인접한 언덕을 가리킵니다.\n유레카 피크와 노이 피크로 불리는 이 언덕들에 올라가면 샌프란시스코 베이 및 주변 지역 그리고 도심지의 전망을 감상할 수 있습니다.\n관광객들은 Golden Gate Bridge, Alcatraz Island, 샌프란시스코 시내, Bay Bridge, 태평양 등과 같은 랜드마크를 볼 수 있습니다."
+        },
+        "EngText": {
+          "Title": "TwinPeaks",
+          "Description": "Twin Peaks refers to two adjacent hills located in the geographic center of San Francisco.\nThe peaks, known as Eureka Peak and Noe Peak, offer panoramic views of the city, the San Francisco Bay, and the surrounding areas.\nVisitors can see landmarks such as the Golden Gate Bridge, Alcatraz Island, downtown San Francisco, the Bay Bridge, and the Pacific Ocean."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nTwin Peaks is near the geographic center of San Francisco.\nApproximate coordinates for Twin Peaks are 37.7549° N latitude and 122.4477° W longitude"
+    },
+
+    {
+      "id": "UnionSquare",
+      "contents": {
+        "KorText": {
+          "Title": "유니온 스퀘어",
+          "Description": "유니온 스퀘어의 역사는 19세기 중반으로 거슬러 올라가며, 이곳은 공개 모임 공간으로 정치 집회와 시위의 장소로 사용되었습니다.\n유니온 스퀘어는 유명한 쇼핑지 장소 중 하나이고, 주요 매장, 부티크, 백화점 및 명품 브랜드가 입점하고 있습니다.\n또한 유니온 스퀘어는 다양한 조각품, 분수, 그리고 공공 미술 설치물로 장식되어 있습니다."
+        },
+        "EngText": {
+          "Title": "UnionSquare",
+          "Description": "Union Square’s history dates back to the mid-19th century when it served as a public gathering space and the site of political rallies and demonstrations.\nUnion Square is renowned for its upscale shopping opportunities, featuring flagship stores, boutiques, department stores, and luxury retailers.\nUnion Square is adorned with various sculptures, fountains, and public art installations"
+        }
+      },
+      "location": "<Detailed Adress&Location>\nLocated in the heart of downtown San Francisco, bordered by Geary, Powell, Post, and Stockton Streets."
+    },
+
+    {
+      "id": "CWM(World War 2 Comfort Women Memorial)",
+      "contents": {
+        "KorText": {
+          "Title": "위안부 기념비",
+          "Description": "'힘의 기둥' 이라는 이름을 가진 이 기념비는 스티븐 와이트 라는 조각가에 의해 만들어졌습니다.\n제2차 세계 대전 중 일본군에 의해 성노예로 강제로 끌려간 다른 인종과 국적을 대표하는 세 명의 여성을 표현하고 있습니다.\n이 기념비는 위안부가 겪은 고통을 상기시키며, 성폭력과 인권유린에 대한 투쟁과 인내의 상징입니다. "
+        },
+        "EngText": {
+          "Title": "CWM(World War 2 Comfort Women Memorial)",
+          "Description": "The monument, titled 'Column of Strength', was created by sculptor Steven Whyte.\nIt features three women, representing the different ethnicities and nationalities of the “Comfort Women” who were forced into sexual slavery by the Imperial Japanese Army during World War II.\nThe monument serves as a reminder of the suffering endured by the Comfort Women and stands as a symbol of resilience and the fight against sexual violence and human rights abuses."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nLocated near the Saint Mary's Square in the city’s Chinatown district.\n0258033, San Francisco, CA 94108 USA"
+    },
+
+    {
+      "id": "Berkeley",
+      "contents": {
+        "KorText": {
+          "Title": "버클리 캠퍼스",
+          "Description": "캘리포니아 대학교 버클리 캠퍼스는 버클리, 캘리포니아에 위치한 명성 있는 공립 연구 대학으로, 일반적으로 UC 버클리 또는 버클리로 불립니다. UC 버클리는 1868년에 캘리포니아 주 내 대학교중 주요 캠퍼스로 설립되었습니다. 현재 미국에서 최고의 공립 대학 중 하나로 평가됩니다."
+        },
+        "EngText": {
+          "Title": "Berkeley",
+          "Description": "The University of California, Berkeley, commonly referred to as UC Berkeley or Berkeley, is a prestigious public research university located in Berkeley, California. UC Berkeley was founded in 1868 as the flagship campus of the University of California system. It is consistently ranked among the top public universities in the United States."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nLocated in the East Bay region of the San Francisco Bay Area\nUniversity of California, Berkeley\nBerkeley, CA 94720 USA"
+    },
+
+    {
+      "id": "Stanford",
+      "contents": {
+        "KorText": {
+          "Title": "스탠포드 대학교",
+          "Description": "스탠포드 대학교는 철도 거물인 Leland Stanford와 그의 부인 제인 Lathrop Stanford에 의해 1885년에 설립되었습니다. 스탠포드 대학교는 학문적 우수성과 혁신으로 유명합니다. 스탠포드 대학교는 Nobel상 수상자, Pulitzer 수상자, MacArthur Fellow 및 다양한 분야의 지도자들을 포함한 우수한 졸업생 및 교직원 명단을 자랑합니다."
+        },
+        "EngText": {
+          "Title": "Stanford",
+          "Description": "Stanford University was founded in 1885 by Leland Stanford, a railroad magnate, and his wife Jane Lathrop Stanford. Stanford University is renowned for its academic excellence and innovation. Stanford University boasts a distinguished list of alumni and faculty members, including Nobel Prize Winner, Pulitzer Prize winners, MacArthur Fellows, and leaders in various fields. "
+        }
+      },
+      "location": "<Detailed Adress&Location>\nLocated in the city of Stanford, California, which is situated in the northern part of Silicon Valley, approximately 35 miles southeast of San Francisco.\nStanford University\n450 Serra Mall\nStanford, CA 94305 USA"
+    },
+
+    {
+      "id": "Apple",
+      "contents": {
+        "KorText": {
+          "Title": "애플 파크",
+          "Description": "애플의 본사인 애플 파크는 실리콘밸리 지역 내에 위치한 Cupertino에 위치해 있습니다. 애플 파크는 건축가 Norman Foster가 디자인한 최첨단 건물입니다. 독특한 디자인으로 '우주선'이라 불리는 원형의 주 건물이 주요한 특징입니다."
+        },
+        "EngText": {
+          "Title": "Apple",
+          "Description": "Apple's main headquarters, known as Apple Park, is located in Cupertino, which is within the Silicon Valley region. Apple Park is a state-of-the-art campus designed by architect Norman Foster. It features a circular main building often referred to as the 'spaceship' due to its unique design."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nApple Park\n1 Apple Park Way\nCupertino, CA 95014\nUSA"
+    },
+
+    {
+      "id": "Facebook",
+      "contents": {
+        "KorText": {
+          "Title": "페이스북",
+          "Description": "페이스북 본사 캠퍼스는 Menlo Park에 큰 면적을 차지하고 있습니다.\n직원들이 일하고 협력하며 쉬는 여러 건물과 야외 공간이 위치해 있습니다.\n회사 내 소프트웨어 개발, 인공지능, 가상 현실 등 다양한 프로젝트를 수행하는 다수의 팀이 이곳에 소속되어 있습니다."
+        },
+        "EngText": {
+          "Title": "Apple",
+          "Description": "The Facebook headquarters campus covers a large area in Menlo Park.\nIt includes multiple buildings and outdoor spaces where employees work, collaborate, and relax.\nIt is home to numerous teams working on a wide range of projects, including software development, artificial intelligence, virtual reality, and more."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nFacebook headquarters is located at 1 Hacker Way, Menlo Park, CA 94025, USA."
+    },
+
+    {
+      "id": "Google",
+      "contents": {
+        "KorText": {
+          "Title": "구글",
+          "Description": "구글의 본사인 Googleplez는 캘리포니아주 Mountain View에 위치하고 있으며, 실리콘밸리의 중심부에 있습니다.\nGoogleplex는 구글의 운영을 위한 중심지로서 사무실, 연구시설, 회의실, 휴양 공간 및 식당 시설을 보유하고 있습니다.\n구글은 지역 사회에 적극적으로 참여하며, 실리콘밸리 및 그 주변 지역에서 교육, 환경 및 자선활동을 지원하고 있습니다."
+        },
+        "EngText": {
+          "Title": "Google",
+          "Description": "Google's main headquarters, known as the Googleplex, is located in Mountain View, California, which is in the heart of Silicon Valley.\nIt serves as the central hub for Google's operations, housing offices, research facilities, meeting rooms, recreational areas, and dining facilities.\nGoogle is actively involved in the local community and supports various educational, environmental, and charitable initiatives in Silicon Valley and beyond."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nGoogleplex address is \n> 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA."
+    },
+
+    {
+      "id": "Instagram",
+      "contents": {
+        "KorText": {
+          "Title": "인스타그램",
+          "Description": "인스타그램의 본사는 캘리포니아주 Menlo Park에 위치한 페이스북 캠퍼스 내에 있습니다.\n인스타그램은 Meta Platform에 인수되었고 페이스북 등의 다른 메타 플랫폼 소유의 회사들과 자원 및 시설을 공유하고 있습니다."
+        },
+        "EngText": {
+          "Title": "Instagram",
+          "Description": "Instagram's main headquarters is located at the Facebook campus in Menlo Park, California.\nInstagram operates as part of Meta Platforms, Inc.\nAs such, Instagram shares resources and facilities with other Meta-owned companies headquartered in Menlo Park also, including Facebook."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nThe address is 1 Hacker Way, Menlo Park, CA 94025, USA."
+    },
+
+    {
+      "id": "Lyft",
+      "contents": {
+        "KorText": {
+          "Title": "리프트",
+          "Description": "리프트 본사는 실리콘밸리 지역의 일부로 간주되는 캘리포니아주 샌프란시스코에 위치해 있습니다.\n리프트는 모바일 앱을 통해 사용자가 주변 운전자에게 차량 공유를 의뢰할 수 있게 하는 차량 서비스를 제공하고 있습니다.\n회사는 효율적으로 운전자와 승객을 매칭시키기 위한 알고리즘을 개발하여 사용자 경험을 향상시키기 위한 노력을 하고 있습니다. "
+        },
+        "EngText": {
+          "Title": "Lyft",
+          "Description": "Lyft's main headquarters is situated in San Francisco, California, which is considered part of the Silicon Valley region.\nLyft provides car service application through its mobile app, allowing users to request rides from nearby drivers.\nThe company develops algorithms for matching drivers with passengers efficiently, enhancing the user experience, and implementing safety features."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nThe address for Lyft's headquarters is 185 Berry Street, Suite 5000, San Francisco, CA 94107, USA."
+    },
+
+    {
+      "id": "Netflix",
+      "contents": {
+        "KorText": {
+          "Title": "리프트",
+          "Description": "넷플릭스는 실리콘밸리 근처에 위치한 캘리포니아주 Los Gatos, CA 에 본사를 두고 있습니다.\n넷플릭스 본사는 콘텐츠 제작, 유통 및 기업 기능을 포함한 회사의 운영의 중심지 역할을 하고 있습니다.\n실리콘밸리 내부에 직접 위치하지는 않지만, 넷플릭스는 센프란시스코 Bay 지역의 기술 및 엔터 분야에서 중요한 역할을 하고 있습니다."
+        },
+        "EngText": {
+          "Title": "Netflix",
+          "Description": "Netflix is headquartered in Los Gatos, California, which is the near region of Silicon Valley.\nIt serves as the central hub for the company's operations, including content creation, distribution, and corporate functions.\nWhile it is not located directly within Silicon Valley, Netflix is nonetheless an important player in the broader technology and entertainment landscape of the San Francisco Bay Area."
+        }
+      },
+      "location": "<Detailed Adress&Location>\n100 Winchester Circle\nLos Gatos, CA 95032\nUSA"
+    },
+
+    {
+      "id": "Tesla",
+      "contents": {
+        "KorText": {
+          "Title": "테슬라",
+          "Description": "테슬라의 본사는 Tesla Factory 또는 Tesla Fremont Factory 라는 명칭으로 알려져 있습니다.\nTesla Factory에서 모델 S, 모델 3, 모델 X 및 모델 Y를 포함한 테슬라의 주요 전기 자동차 생산이 이루어지고 있습니다.\n이 공장에서 차량뿐만 아니라 차량용 배터리 팩, 전기 드라이브 트레인 및 기타 부품도 생산하고 있습니다."
+        },
+        "EngText": {
+          "Title": "Tesla",
+          "Description": "The Tesla Factory in Fremont serves as the primary manufacturing facility for Tesla's electric vehicles, including the Model S, Model 3, Model X, and Model Y.\nThe factory also produces battery packs, electric drivetrains, and other components for Tesla vehicles."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nLocated at 45500 Fremont Blvd, Fremont, CA 94538, USA.\nFremont is situated in the southern part of the San Francisco Bay Area, within the broader Silicon Valley region."
+    },
+
+    {
+      "id": "X (formerTwitter)",
+      "contents": {
+        "KorText": {
+          "Title": "X",
+          "Description": "X는 인기 있는 소셜 미디어 플랫폼으로, 본사는 캘리포니아주 샌프란시스코 내 실리콘밸리에 위치해 있습니다.\n이 본사는 회사의 엔지니어링, 제품 개발, 마케팅, 영업 및 기업 기능을 포함한 운영의 중심지 역할을 하고 있습니다.\n본사는 X 플랫폼을 유지 및 개선하기 위한 다양한 전문가 팀들의 본거지입니다."
+        },
+        "EngText": {
+          "Title": "X (formerTwitter)",
+          "Description": "X, a popular social media platform, has its headquarters located in San Francisco, California, which is part of the broader Silicon Valley region.\nX's San Francisco headquarters serves as the central hub for the company's operations, including engineering, product development, marketing, sales, and corporate functions.\nThe headquarters is home to a diverse team of professionals working to maintain and enhance the X platform."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nLocated at 1355 Market Street, Suite 900, San Francisco, CA 94103, USA."
+    },
+
+    {
+      "id": "Uber",
+      "contents": {
+        "KorText": {
+          "Title": "우버",
+          "Description": "우버의 샌프란시스코 본사는 엔지니어링, 제품 개발, 마케팅, 영업 및 기업 기능을 포함한 회사의 운영의 중심지로 기능합니다.\n본사 건물은 샌프란시스코의 번화가인 소마(SoMa: South of Market) 지역에 위치하고 있으며, 이 지역은 실리콘 밸리 지역의 일부입니다."
+        },
+        "EngText": {
+          "Title": "Uber",
+          "Description": "Uber's San Francisco headquarters serves as the central hub for the company's operations, including engineering, product development, marketing, sales, and corporate functions.\nThe headquarters building is situated in the bustling SoMa (South of Market) neighborhood of San Francisco, which is part of the broader Silicon Valley region."
+        }
+      },
+      "location": "<Detailed Adress&Location>\nMain headquarters is located at 1455 Market Street, San Francisco, CA 94103, USA."
+    }
+  ]
+}
